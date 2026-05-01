@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cauã Ernani
 
-🚀 **Estudante de Engenharia da Computação no IFSP Birigui**
+🚀 **Computer Engineering student at IFSP Birigui**
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
